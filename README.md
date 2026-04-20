@@ -14,4 +14,4 @@ Use this if you lose your dice during a board game :)
 - JavaScript
 
 ## How to Run
-Open RNG.html in your browser.
+
